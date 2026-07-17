@@ -1,0 +1,16 @@
+word="python"
+#number=int(input())
+#print(word*number)
+#print(len(word))
+#print(word[2:5:2])
+#print(word[:])
+print(word[1:6:2])
+print(word[1:5])
+print(word[::-1])
+print(word[-1:-7:-1])
+word="Oklahoma"
+print(len(word))
+print(word[-1:-9:-1])
+print(word[-7:-9:-1])
+print(word[0:5:2])
+print(word[0:4:3])
