@@ -40,8 +40,8 @@ Stop when the number reaches 22.'''
         break
     print(i)'''
 
-for i in range (1,30):
+'''for i in range (1,30):
     if i%2==0:
         continue
-    print(i)
+    print(i)'''
 

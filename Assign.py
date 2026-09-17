@@ -154,7 +154,7 @@ for i in a:
     if i%2==0:
         print((i),end=" ")'''
 
-a={12,25,18,40,25,60,75}
+'''a={12,25,18,40,25,60,75}
 print(a)
 print(len(a))
 print(max(a))
@@ -166,7 +166,9 @@ a.discard(86)
 print(a)
 for i in a:
     if i%2==0:
-        print((i), end=" ")
+        print((i), end=" ")'''
+
+
 
 
 

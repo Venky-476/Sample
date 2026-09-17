@@ -89,7 +89,7 @@ print(len(a))
 print(a[::-1])
 #print(tuple(reversed(a)))'''
 
-a= list(map(int, input("Enter a: ").split()))
+'''a= list(map(int, input("Enter a: ").split()))
 #a=[20,45,65,70,98]
 print(a)
 print(a[0])
@@ -104,7 +104,7 @@ for i in a:
         print((i),end=" ")
 print()
 b=sorted(a)
-print(b)
+print(b)'''
 
 
 #dictinary
@@ -136,6 +136,9 @@ print(list(dict_a.keys()))
  #   print(key,dict_a[key])
 b=reversed(dict_a)
 print(b)'''
+
+
+
 
 
 

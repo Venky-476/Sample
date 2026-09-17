@@ -6,3 +6,4 @@ add = 2+6
 print(add)
 school = "Oklahome School"
 print(school)
+print("20+5")
